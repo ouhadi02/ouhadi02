@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Étudiante ingénieure IA & Data</b> · ENSA Al Hoceima (TDIA)<br>
-  À la recherche d'un <b>stage PFE à partir de janvier 2027</b>, de préférence en France
+  À la recherche d'un <b>stage PFE à partir de janvier 2027</b>
 </p>
 
 <p align="center">
@@ -16,8 +16,6 @@
 
 - 🎓 Étudiante en 5e année du cycle ingénieur en Transformation Digitale et Intelligence Artificielle, après deux ans de classes préparatoires (MPSI)
 - 🤖 Je me forme à l'IA et à la data : machine learning, deep learning, NLP et data engineering
-- 🧪 Stage PFA chez Atlas Cloud Services : optimisation de l'inférence de LLM sur GPU
-- 📫 Ouverte aux échanges avec les équipes qui recrutent
 
 ---
 
@@ -41,22 +39,10 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| 🩺 **[Chatbot médical](LIEN_DU_DEPOT)** | Chatbot médical basé sur des LLM, avec collecte et traitement de données multi-sources, fine-tuning et évaluation | Python, PyTorch, Qwen2.5, Mistral 7B |
+| 🩺 **[Chatbot médical]([LIEN_DU_DEPOT](https://github.com/ouhadi02/Medical-Chatbot))** | Chatbot médical basé sur des LLM, avec collecte et traitement de données multi-sources, fine-tuning et évaluation | Python, PyTorch, Qwen2.5, Mistral 7B |
 | 🔄 **[Pipeline d'ingestion & matching CV-Poste](LIEN_DU_DEPOT)** | Pipeline d'ingestion, stockage et traitement de données, avec un modèle NLP pour le matching entre CV et offres | Python, Airflow, PostgreSQL, NLP |
-| 🎓 **[Application de gestion des PFE](LIEN_DU_DEPOT)** | Application web pour gérer le cycle des PFE, avec affectation des étudiants aux encadrants via un modèle NLP | Java EE, Hibernate, Maven, NLP |
-| 💧 **[Surveillance du niveau d'eau (IoT)](LIEN_DU_DEPOT)** | Transmission en temps réel, alertes automatiques et tableau de bord de visualisation | Azure Event Hub, Azure Logic Apps, Flask |
+| 🎓 **[Application de gestion des PFE]([LIEN_DU_DEPOT](https://github.com/ouhadi02/PFE-MANAGEMENT))** | Application web pour gérer le cycle des PFE, avec affectation des étudiants aux encadrants via un modèle NLP | Java EE, Hibernate, Maven, NLP |
+| 💧 **[Surveillance du niveau d'eau (IoT)]([LIEN_DU_DEPOT](https://github.com/ouhadi02/Water-Level-Monitoring-System))** | Transmission en temps réel, alertes automatiques et tableau de bord de visualisation | Azure Event Hub, Azure Logic Apps, Flask |
+| 🦁 **[ Zoofari]([LIEN_DU_DEPOT]([https://github.com/ouhadi02/Medical-Chatbot](https://github.com/ouhadi02/Gestion-des-tickets-d-un-zoo)))** | Application web de billetterie pour un zoo, avec réservation et paiement de tickets en ligne | PHP, Laravel |
 
 ---
-
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouhadi02&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouhadi02&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="150">
-</p>
-
----
-
-<p align="center">
-  Merci de votre visite ! N'hésitez pas à me contacter si mon profil vous intéresse. ✨
-</p>
