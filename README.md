@@ -39,10 +39,10 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| 🩺 **[Chatbot médical]([LIEN_DU_DEPOT](https://github.com/ouhadi02/Medical-Chatbot))** | Chatbot médical basé sur des LLM, avec collecte et traitement de données multi-sources, fine-tuning et évaluation | Python, PyTorch, Qwen2.5, Mistral 7B |
-| 🔄 **[Pipeline d'ingestion & matching CV-Poste](LIEN_DU_DEPOT)** | Pipeline d'ingestion, stockage et traitement de données, avec un modèle NLP pour le matching entre CV et offres | Python, Airflow, PostgreSQL, NLP |
-| 🎓 **[Application de gestion des PFE]([LIEN_DU_DEPOT](https://github.com/ouhadi02/PFE-MANAGEMENT))** | Application web pour gérer le cycle des PFE, avec affectation des étudiants aux encadrants via un modèle NLP | Java EE, Hibernate, Maven, NLP |
-| 💧 **[Surveillance du niveau d'eau (IoT)]([LIEN_DU_DEPOT](https://github.com/ouhadi02/Water-Level-Monitoring-System))** | Transmission en temps réel, alertes automatiques et tableau de bord de visualisation | Azure Event Hub, Azure Logic Apps, Flask |
-| 🦁 **[ Zoofari]([LIEN_DU_DEPOT]([https://github.com/ouhadi02/Medical-Chatbot](https://github.com/ouhadi02/Gestion-des-tickets-d-un-zoo)))** | Application web de billetterie pour un zoo, avec réservation et paiement de tickets en ligne | PHP, Laravel |
+| 🩺 **[Chatbot médical](https://github.com/ouhadi02/Medical-Chatbot)** | Chatbot médical basé sur des LLM, avec collecte et traitement de données multi-sources, fine-tuning et évaluation | Python, PyTorch, Qwen2.5, Mistral 7B |
+| 🔄 **Pipeline d'ingestion & matching CV-Poste** | Pipeline d'ingestion, stockage et traitement de données, avec un modèle NLP pour le matching entre CV et offres | Python, Airflow, PostgreSQL, NLP |
+| 🎓 **[Application de gestion des PFE](https://github.com/ouhadi02/PFE-MANAGEMENT)** | Application web pour gérer le cycle des PFE, avec affectation des étudiants aux encadrants via un modèle NLP | Java EE, Hibernate, Maven, NLP |
+| 💧 **[Surveillance du niveau d'eau (IoT)](https://github.com/ouhadi02/Water-Level-Monitoring-System)** | Transmission en temps réel, alertes automatiques et tableau de bord de visualisation | Azure Event Hub, Azure Logic Apps, Flask |
+| 🦁 **[Zoofari](https://github.com/ouhadi02/Gestion-des-tickets-d-un-zoo)** | Application web de billetterie pour un zoo, avec réservation et paiement de tickets en ligne | PHP, Laravel |
 
 ---
